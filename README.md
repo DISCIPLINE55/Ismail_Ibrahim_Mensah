@@ -30,7 +30,7 @@ I enjoy working on projects focused on:
 
 ## 🌟 Featured Projects  
 
-### 🔹 [DisciNet-Empowerment-Hub App](#)  
+### 🔹 [DisciNet-Empowerment-Hub App](https://github.com/DISCIPLINE55/discinet-empowerment-hub)  
 A mobile-first app tackling **youth unemployment in Ghana**.  
 - Skill-building, job access, mentorship, and portfolio tools  
 - Optimized for low-bandwidth & accessibility  
@@ -38,7 +38,7 @@ A mobile-first app tackling **youth unemployment in Ghana**.
 
 ---
 
-### 🔹 [Fashion Design Management System](#)  
+### 🔹 [Fashion Design Management System](https://github.com/DISCIPLINE55/semester_project)  
 A **web application** for managing boutique operations (owners, employees, customers, inventory, and orders).  
 - Features: CRUD operations, admin panel, reports, role-based access, and Row-Level Security (RLS)  
 - **Tech stack:** React, Node.js, MySQL, TypeScript, Tailwind CSS  
