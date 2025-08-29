@@ -57,8 +57,8 @@ A system prototype for **managing boutique operations**, designed to improve eff
 
 ## 📫 Let's Connect  
 - 🌐 Portfolio: [ismailmensah.vercel.app](https://ismailmensah.vercel.app)  
-- 📧 Email: ismailmensah055@gmail.com  
-- 📱 Phone: +233 558852609  
+- 📧 Email: [ismailmensah055@gmail.com](mailto:ismailmensah055@gmail.com)
+- 📱 WhatsApp: [+233 558852609](https://wa.me/233558852609)   
 - 💼 LinkedIn: [linkedin.com/in/ismail-mensah](https://linkedin.com/in/ismail-mensah-81a920312)  
 
 ---
